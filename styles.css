@@ -7,7 +7,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: url(hello/gradient.jpg);
+    background-image: url(gradient.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
