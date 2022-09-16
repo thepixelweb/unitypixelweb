@@ -82,7 +82,7 @@ label #cancel{
     margin-left: 250px;
 }
 section{
-    background-image: url(hello/gradient.jpg);
+    background-image: url(gradient.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
